@@ -1,7 +1,3 @@
-# Dreinn
-
-> A feature-rich, minimalist network client crafted for users who demand both aesthetic polish and advanced connectivity.
-
 Whether you need full-device routing via TUN or granular rule-based proxying, **Dreinn** provides a seamless experience without the clutter.
 
 ---
@@ -14,3 +10,11 @@ Whether you need full-device routing via TUN or granular rule-based proxying, **
 * **Granular Routing & Anti-DPI** — Custom connection bypass rules and packet fragmentation tools to bypass strict filters.
 * **Built-in Protection** — Ad-blocking and encrypted in-tunnel DNS resolution out of the box.
 * **Refined UI** — Polished dark mode with customizable ambient background patterns.
+
+---
+
+### Download & Installation
+
+Get the latest build from the official GitHub release:
+
+[Download Dreinn](https://github.com/Shadowtapeeee/dreinn-releases/releases/tag/v0.10.0B)
