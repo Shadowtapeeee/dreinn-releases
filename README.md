@@ -18,3 +18,10 @@ Whether you need full-device routing via TUN or granular rule-based proxying, **
 Get the latest build from the official GitHub release:
 
 [Download Dreinn](https://github.com/Shadowtapeeee/dreinn-releases/releases/tag/v0.10.0B)
+
+---
+
+### Community & Support
+
+* **Telegram Channel:** [t.me/dreinnvpn](https://t.me/dreinnvpn)
+* **Support:** [admin@dreinn.space](mailto:admin@dreinn.space)
